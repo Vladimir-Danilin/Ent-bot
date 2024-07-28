@@ -11,7 +11,7 @@ Ent-Bot is a fully modular bot – meaning all features and commands can be enab
 Python 3.8 or higher is required.
 
 To launch the bot, simply run the following command:
-1. **python -m pip install -U disnake asyncio asyncio**
+1. **python -m pip install -U disnake asyncio**
 
 2. **python bot.py**
 
